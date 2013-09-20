@@ -254,14 +254,14 @@ label.error {
 .btn-wine {
   color: #fff;
   text-shadow: 0 -1px 0 rgba(0,0,0,0.25);
-  background-color: #e64b6a;
+  background-color: #e6e6e6;
   background-image: none;
   padding: 5px 15px;
 }
 
 .btn-wine:hover {
   color: #fff;
-  background-color: #ed617b;
+  background-color: #e64b6a;
 }
 
 /*************** map ************/
