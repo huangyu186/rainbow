@@ -1,7 +1,7 @@
 markdown: rdiscount
 pygments: true
 
-disqus_shortname: 91wedding
+disqus_shortname: huangyu186
 data_sources:
   - name: wedding # will be used as site.albums to access data, no spaces allowed
     type: json
